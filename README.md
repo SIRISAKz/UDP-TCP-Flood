@@ -1,7 +1,12 @@
-# UDP---TCP-Flood
+# UDP TCP Flood
 Attack DDOS Samp v4.9 **( Update Last Now )**
 # Setup & Use  
-วิธีใช้งาน : py udp-flood.py - py tcp-flood.py 
+  วิธีใช้งาน
+  
+  1). py udp-flood.py ( สำหรับยิงเซิร์ฟเวอร์ )
+  
+  2). py tcp-flood.py ( สำหรับยิงเครื่อง )
+  
 # Credits & Developer 
 **SIRISAKz | Connecting_Z**
 
